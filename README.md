@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Shreya U! 👋
 
-<!--
-**Shreyaumesh/Shreyaumesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI & Data Science Engineering Student at SIT, Tumakuru.
 
-Here are some ideas to get you started:
+I enjoy building web applications, strengthening my programming skills, and turning ideas into practical solutions. I'm continuously working on improving my technical knowledge and developing my skills as a software developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technical Skills
+
+- **Programming Languages:** C, C++
+- **Core Skills:** Data Structures & Algorithms (DSA)
+- **Web Technologies:** HTML, CSS, JavaScript, Bootstrap
+- **Tools:** Git, GitHub, VS Code
+
+### 🌱 Currently Working On
+
+- Improving problem-solving skills through coding practice.
+- Building responsive and user-friendly web interfaces.
+- Strengthening my programming and development skills.
+
+### 🎯 Goals
+
+- Develop strong problem-solving abilities.
+- Build impactful projects.
+- Prepare for software engineering internships and placements.
+
+### 📫 Connect With Me
+
+- **GitHub:** [Shreyaumesh](https://github.com/Shreyaumesh)
+- **LeetCode:** [ushreya01](https://leetcode.com/u/ushreya01/)
+
+✨ Thanks for visiting my profile!
